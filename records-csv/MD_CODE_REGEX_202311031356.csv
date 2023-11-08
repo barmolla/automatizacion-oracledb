@@ -1,0 +1,6 @@
+"ID","REGEX","DESCRIPTION"
+1,\#[A-Z1-9\@\#\_],Temporary tables
+2,INSERT,Insert statements
+3,SELECT,Select statements
+4,UPDATE,Update Statements
+5,DELETE,Delete Statements

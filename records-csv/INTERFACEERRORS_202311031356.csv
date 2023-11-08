@@ -1,0 +1,8 @@
+"ID","CREATED_AT","UPDATED_AT","CREATED_BY","UPDATED_BY","DESCRIPTION"
+1,2019-10-11 14:10:34.000,2019-10-11 14:10:34.000,,,Formato incorrecto. El archivo contenia menos columnas que las necesarias para procesar.
+2,2019-10-11 14:10:34.000,2019-10-11 14:10:34.000,,,El nro. de pedido de Stealth no tiene el formato correcto.
+3,2019-10-11 14:10:34.000,2019-10-11 14:10:34.000,,,No se encontró un trámite en Gestor con el nro. de pedido de Stealth.
+4,2019-10-11 14:10:34.000,2019-10-11 14:10:34.000,,,El trámite no pertenece al Call Center que está procesando.
+5,2019-10-11 14:10:35.000,2019-10-11 14:10:35.000,,,No se encontró una transición aplicable al trámite.
+6,2019-10-11 14:10:35.000,2019-10-11 14:10:35.000,,,No se encontró un trámite en Gestor con el nro. SPN.
+7,2020-12-03 22:40:20.000,2020-12-03 22:40:20.000,,,No se encontró un trámite en Gestor con el nro. SDS
